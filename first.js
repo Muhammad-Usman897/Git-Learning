@@ -4,16 +4,14 @@ console.log(button);
 const login = "Login page Added";
 console.log(login);
 
-<<<<<<< HEAD
 const footer = "footer added in our website";
 console.log(footer);
-=======
 const payment = "integrate the payment added";
 console.log(payment);
-<<<<<<< HEAD
->>>>>>> faa1411 (payment added)
-=======
 
-const jazzcash = "integrate the jazzcash as well";
-console.log(jazzcash);
->>>>>>> 9b2a9f5 (jazzcash added)
+console.log("Latest update");
+console.log("im playing a cricket");
+console.log("Okay");
+
+//i am fixing a bug
+console.log("Bug has been fixed");
